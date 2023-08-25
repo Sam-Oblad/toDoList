@@ -1,0 +1,14 @@
+
+.task-item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.task-description {
+    margin-left: 10px;
+}
+
+.reset-button {
+    margin-left: 100px;
+}
